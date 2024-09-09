@@ -1,7 +1,7 @@
 # Nova Translatable
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/outl1ne/nova-translatable.svg?style=flat-square)](https://packagist.org/packages/outl1ne/nova-translatable)
-[![Total Downloads](https://img.shields.io/packagist/dt/outl1ne/nova-translatable.svg?style=flat-square)](https://packagist.org/packages/outl1ne/nova-translatable)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/juniora/nova-translatable.svg?style=flat-square)](https://packagist.org/packages/juniora/nova-translatable)
+[![Total Downloads](https://img.shields.io/packagist/dt/juniora/nova-translatable.svg?style=flat-square)](https://packagist.org/packages/juniora/nova-translatable)
 
 This [Laravel Nova](https://nova.laravel.com) allows you to make any input field `spatie/laravel-translatable` compatible and localisable.
 
@@ -47,7 +47,7 @@ Install the package in a Laravel Nova project via Composer:
 
 ```bash
 # Install nova-translatable
-composer require outl1ne/nova-translatable
+composer require juniora/nova-translatable
 
 # Publish configuration (optional, but useful for setting default locales)
 php artisan vendor:publish --tag="nova-translatable-config"

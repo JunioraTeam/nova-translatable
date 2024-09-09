@@ -1,5 +1,5 @@
 {
-  "name": "outl1ne/nova-translatable",
+  "name": "juniora/nova-translatable",
   "description": "A laravel-translatable extension for Laravel Nova.",
   "keywords": [
     "laravel",
@@ -17,6 +17,11 @@
     {
       "name": "Outl1ne",
       "email": "info@outl1ne.com",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Juniora",
+      "email": "info@juniora.ir",
       "role": "Maintainer"
     }
   ],
